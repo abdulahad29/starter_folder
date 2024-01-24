@@ -1,11 +1,12 @@
-# Starter folder
+# Trafic Tickets Issued
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+This repository includes all the codes and files used to produce the paper.
 
-To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
+This paper provides an analysis of the correlation between socioeconomic status and the frequency of traffic tickets issued in various neighborhoods across Toronto.
 
+**Statement on LLM usage: No LLMS were used in this work.**
 ## File Structure
 
 The repo is structured as:
