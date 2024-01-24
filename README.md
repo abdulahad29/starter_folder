@@ -6,7 +6,7 @@ This repository includes all the codes and files used to produce the paper.
 
 This paper provides an analysis of the correlation between socioeconomic status and the frequency of traffic tickets issued in various neighborhoods across Toronto.
 
-**Statement on LLM usage: No LLMS were used in this work.**
+**Statement on LLM usage: No LLMs were used in this work.**
 ## File Structure
 
 The repo is structured as:
